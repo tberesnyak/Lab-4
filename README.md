@@ -15,6 +15,7 @@ Drawings
 Pictures
 <img width="280" height="240" alt="Lab 4" src="https://github.com/user-attachments/assets/3ace38d1-3269-4a5d-a506-9ec1fcfabf28" />
 
+
 Modified Schematics
 Modified Code
 Discussion: What you can learn from the results obtained. Should include:
