@@ -18,7 +18,8 @@ void loop() {
   digitalWrite(LED_BUILTIN, LOW);   // turn the LED off by making the voltage LOW
   delay(1000);                      // wait for a second
 }
-Results: Data or outcome from the work. Should include:
+Results:
+
 <img width="280" height="240" alt="Lab 4" src="https://github.com/user-attachments/assets/3ace38d1-3269-4a5d-a506-9ec1fcfabf28" />
 These were values given out by the light sensor.
 <img width="1284" height="955" alt="Screenshot 2026-02-17 130213" src="https://github.com/user-attachments/assets/f29e9e86-9bb2-4278-a70e-0ab381ae6868" />
